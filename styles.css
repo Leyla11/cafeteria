@@ -1,0 +1,161 @@
+ body {
+    background-color: #868282;
+    padding: 0px 300px;
+    font-family: sans-serif;
+ }
+
+ .menu {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #FFFFFF;
+   padding: 10px 25px;
+ }
+ 
+ .firstnav {
+   display: flex;
+   justify-content: center;
+ }
+
+ .firstnav>a {
+   padding: 10px 15px;
+   background-color: #E18611;
+   color: white;
+   font-size: 25px;
+   text-decoration: none;
+   border: 1px solid #e18711cc;
+ }
+
+ nav {
+   display: flex;
+   justify-content: center;
+ }
+
+ nav>a {
+   padding: 10px 15px;
+   background-color: #59241B;
+   color: #FFFFFF;
+   font-size: 35px;
+   text-decoration: none;
+   border: 1px solid #59241B;
+ }
+
+ .definicion {
+   background-color: #FFFFFF;
+   text-align: center;
+   justify-content: center;
+   font-size: 25px;
+   padding-left: 10%;
+   padding-right: 10%;
+ }
+
+ .imagebox {
+   display: flex;
+   justify-content: space-around;
+   color: #868282;
+   align-items: center;
+ }
+
+ .imagebox>img {
+   width: 40%;
+ }
+
+ .imagebox>p {
+   width: 30%;
+ }
+
+ .como {
+   background-color: #FFFFFF;
+   padding: 250px 250px;
+   justify-content: center;
+   font-size: 25px;
+   color: #868282;
+ }
+
+ .como>h3 {
+   text-align: left;
+   color: #E18611;
+   font-size: 40px;
+ }
+
+.diferente {
+   color: #E18611;
+   font-size: 35px;
+}
+
+.siguiente {
+   background-color: #FFFFFF;
+   display: flex;
+   justify-content: center;
+   font-size: 30px;
+   padding: 10%;
+}
+
+.siguiente>a {
+   background-color: #EAEDC0;
+   text-decoration: none;
+   color: #868282;
+   font-size: 25px;
+   padding: 10px 150px;
+   border-radius: 15px;
+}
+
+.autor {
+  background-color: #FFFFFF;
+  font-size: 25px;
+  text-align: right;
+  color: #868282;
+  margin: 0%;
+}
+
+h4 {
+  background-color: #F9FAF2;
+  font-size: 30px;
+  text-align: left;
+  color: #444;
+  margin: 0%;
+}
+
+.listrel {
+  width: 100%;
+}
+
+.rel {
+  background-color: #F9FAF2;
+  font-size: 20px;
+  color: #868282;
+  padding: 20px 40px  ;
+}
+
+.rel>li {
+  background-color: #EAEDC0;
+   text-decoration: none;
+   color: #868282;
+   font-size: 25px;
+   padding: 10px 30px;
+   border-radius: 15px;
+   margin: 20px 0px;
+   width: 300px;
+}
+
+
+h5 {
+  background-color: #F9FAF2;
+  font-size: 30px;
+  color: #444;
+  margin: 0%;
+}
+
+.esp {
+  background-color: #F9FAF2;
+  font-size: 20px;
+  color: #868282;
+  margin: 0%;
+}
+
+a {
+color: #444;
+text-decoration: none;
+font-size: 25px;
+text-align: right;
+}
