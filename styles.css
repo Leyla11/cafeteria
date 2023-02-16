@@ -146,15 +146,27 @@ h4 {
 h5 {
   background-color: #F9FAF2;
   font-size: 30px;
+  text-align: left;
   color: #444;
   margin: 0%;
 }
-
+ 
 .esp {
   background-color: #F9FAF2;
   font-size: 20px;
   color: #868282;
-  margin: 0%;
+  margin: 0;
+}
+
+.esp>li {
+  background-color: #EAEDC0;
+   text-decoration: none;
+   color: #868282;
+   font-size: 25px;
+   padding: 10px 30px;
+   border-radius: 15px;
+   margin: 20px 0px;
+   width: 300px;
 }
 
 footer {
@@ -170,3 +182,5 @@ text-decoration: none;
 font-size: 25px;
 text-align: right;
 }
+
+
