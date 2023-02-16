@@ -150,7 +150,11 @@ h5 {
   color: #444;
   margin: 0%;
 }
- 
+
+.esplist{
+  width: 100%;
+}
+
 .esp {
   background-color: #F9FAF2;
   font-size: 20px;
